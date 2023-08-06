@@ -1,0 +1,11 @@
+2023-08-06 08:39:21.337971 - Initialized conversion of CBT951
+2023-08-06 08:39:21.411823 - Received CBT.V505.FILE951.PDS from FILE951.XMI 
+2023-08-06 08:39:21.414083 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE951.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:39:21.415059 - Found $$NOTE01.txt (text/plain) in CBT.V505.FILE951.PDS, moved to PDS/$$NOTE01
+2023-08-06 08:39:21.416052 - Found $$NOTE02.txt (text/plain) in CBT.V505.FILE951.PDS, moved to PDS/$$NOTE02
+2023-08-06 08:39:21.416983 - Found $DOC.txt (text/plain) in CBT.V505.FILE951.PDS, moved to PDS/$DOC
+2023-08-06 08:39:21.417874 - Found @FILE951.txt (text/plain) in CBT.V505.FILE951.PDS, moved to PDS/@FILE951
+2023-08-06 08:39:21.419088 - Found GDGP.rexx (text/plain) in CBT.V505.FILE951.PDS, moved to PDS/GDGP
+2023-08-06 08:39:21.420164 - Found GDGPH.txt (text/plain) in CBT.V505.FILE951.PDS, moved to PDS/GDGPH
+2023-08-06 08:39:21.421274 - Found GDGPP.txt (text/plain) in CBT.V505.FILE951.PDS, moved to PDS/GDGPP
+2023-08-06 08:39:21.422180 - Found GDGP00.txt (text/plain) in CBT.V505.FILE951.PDS, moved to PDS/GDGP00
