@@ -1,0 +1,10 @@
+2025-04-14 00:25:55.361918 - Received CBT.V508.FILE951.PDS from FILE951.XMI 
+2025-04-14 00:25:55.362777 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE951.PDS, moved to PDS/$$$#DATE
+2025-04-14 00:25:55.362861 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE951.PDS, moved to PDS/$$NOTE01
+2025-04-14 00:25:55.362936 - Found $$NOTE02.txt (text/plain) in CBT.V508.FILE951.PDS, moved to PDS/$$NOTE02
+2025-04-14 00:25:55.363001 - Found $DOC.txt (text/plain) in CBT.V508.FILE951.PDS, moved to PDS/$DOC
+2025-04-14 00:25:55.363061 - Found @FILE951.txt (text/plain) in CBT.V508.FILE951.PDS, moved to PDS/@FILE951
+2025-04-14 00:25:55.363156 - Found GDGP.rexx (text/plain) in CBT.V508.FILE951.PDS, moved to PDS/GDGP
+2025-04-14 00:25:55.363221 - Found GDGPH.txt (text/plain) in CBT.V508.FILE951.PDS, moved to PDS/GDGPH
+2025-04-14 00:25:55.363290 - Found GDGPP.txt (text/plain) in CBT.V508.FILE951.PDS, moved to PDS/GDGPP
+2025-04-14 00:25:55.363351 - Found GDGP00.txt (text/plain) in CBT.V508.FILE951.PDS, moved to PDS/GDGP00
